@@ -11,13 +11,23 @@ h1 {
 }
 
 .navbar ul {
-    
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: black;
 }
-
+.navbar li{
+    float: left;
+}
 .navbar a {
-   
+    display: block;
+    color: azure;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
 .navbar a:hover {
-    ;
+    background-color: black;
 }
