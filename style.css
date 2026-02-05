@@ -22,12 +22,12 @@ h1 {
 }
 .navbar a {
     display: block;
-    color: azure;
+    color: rgb(17, 192, 223);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 .navbar a:hover {
-    background-color: black;
+    background-color: grey
 }
